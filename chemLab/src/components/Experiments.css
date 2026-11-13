@@ -1,0 +1,17 @@
+.experiments {
+    padding: 60px;
+    background-color: #F1F8F7;
+    text-align: center;
+}
+
+.experiments h2 {
+    color: #164B4B;
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+.experiments p {
+    color: #426966;
+    font-size: 16px;
+    margin-bottom: 35px;
+}
