@@ -1,0 +1,47 @@
+
+.experiment-card {
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+    width: 280px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+.experiment-card h3 {
+    color: #164B4B;
+    margin-bottom: 15px;
+}
+
+.experiment-card p {
+    color: #426966;
+    margin-bottom: 15px;
+}
+
+.experiment-card span {
+    display: inline-block;
+    background-color: #A8DCCF;
+    color: #164B4B;
+    padding: 5px 12px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.experiment-card button {
+    display: block;
+    margin: 10px auto 0;
+    background-color: #087E75;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.experiment-card {
+    transition: transform 0.3s ease;
+}
+
+.experiment-card:hover {
+    transform: translateY(-5px);
+}

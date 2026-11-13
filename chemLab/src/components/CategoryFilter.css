@@ -1,0 +1,23 @@
+
+.category-filter {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.category-filter button {
+    background-color: #A8DCCF;
+    color: #164B4B;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.category-filter button:hover {
+    background-color: #087E75;
+    color: white;
+}
